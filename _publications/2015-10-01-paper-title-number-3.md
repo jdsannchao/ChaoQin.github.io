@@ -3,7 +3,7 @@ title: "Event Causality Is Key to Computational Story Understanding."
 collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about causal relationship in multimodal story understanding.'
+excerpt: 'Co-led (equal contribution with Yidan) the design of an LLM-based framework for causal reasoning in stories, improving story evaluation and V-T alignment by over 10%, with methods reused in follow-up work.'
 date: 2023-11-16
 venue: 'the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
