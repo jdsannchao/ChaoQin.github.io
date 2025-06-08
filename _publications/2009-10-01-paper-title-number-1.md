@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Designed a no-human-label training framework that outperforms few-shot methods on both classification and reasoning tasks—joint work with Alibaba Damo, equal contribution with Chaoqun.'
 date: 2024-09-19
