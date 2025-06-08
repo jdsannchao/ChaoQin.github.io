@@ -9,7 +9,7 @@ redirect_from:
 
 ## 👋 Hi, I'm Chao Qin
 
-I recently completed my 4-year PhD at the College of Computing and Data Science (CCDS), Nanyang Technological University [(NTU)](https://www.ntu.edu.sg/computing/home).
+I recently completed my 4-year PhD at the College of Computing and Data Science [(CCDS)](https://www.ntu.edu.sg/computing/home), Nanyang Technological University (NTU).
 My research interests lie in **multimodal understanding**, **natural language processing (NLP)**, and **large language model (LLM) applications**.
 
 I am deeply grateful to my advisor, Nanyang Assoc. Prof. Li Boyang ["Albert"](http://boyangli.org/), for his constant support and guidance during my PhD.
