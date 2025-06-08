@@ -1,12 +1,11 @@
 ---
 title: "Two Causally Related Needles in a Video Haystack"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ''
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+excerpt: 'Built a long video understanding dataset with LLM-agent integration; exposed key flaws in popular open datasets and enabled stronger benchmarks—co-led with Miaoyu (equal contribution).'
+date: 2025-05-26
+venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2505.19853?'
 citation: 'Li, M., Chao, Q., & Li, B. (2025). &quot;Two Causally Related Needles in a Video Haystack. &quot; <i>arXiv preprint arXiv:2505.19853</i>.'
 ---
