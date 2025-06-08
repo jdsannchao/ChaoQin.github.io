@@ -3,7 +3,7 @@ title: "Movie Box Office Prediction With Self-Supervised and Visually Grounded P
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about visualized representation learning #693.'
+excerpt: 'Predicted movie box office using self-supervised learning on posters, improving accuracy by 14.6% and enabling generalization to other multimodal regression tasks.'
 date: 2023-7-10
 venue: '2023 IEEE International Conference on Multimedia and Expo (ICME)'
 paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://arxiv.org/pdf/2304.10311)'
