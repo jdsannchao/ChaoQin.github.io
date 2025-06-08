@@ -20,7 +20,7 @@ In my free time, I enjoy hiking, traveling, and taking care of my cat.
 You can find some of my travel photos and cute cat pictures in the [Portfolio](portfolio.html) section of this homepage.
 
 📧 Email: jdsannchao@gmail.com
-📱 Weixin: ![Wechat](assets/WeChat.jpg)
+📱 Weixin:  <img src="assets/WeChat.jpg" alt="WeChat" width="120" />
 
 ---
 
