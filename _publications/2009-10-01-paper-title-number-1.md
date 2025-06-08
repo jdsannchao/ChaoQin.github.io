@@ -3,12 +3,11 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Designed a no-human-label training framework that outperforms few-shot methods on both classification and reasoning tasks—joint work with Alibaba Damo, equal contribution with Chaoqun.'
+date: 2024-09-19
+venue: 'COLING 2025'
+paperurl: 'https://arxiv.org/abs/2409.12425'
+citation: 'Liu, C., Chao, Q., Zhang, W., Wu, X., Li, B., Tuan, L. A., & Bing, L. (2025, January). &quot;Zero-to-Strong Generalization: Eliciting Strong Capabilities of Large Language Models Iteratively without Gold Labels. &quot; <i>COLING</i>. (pp. 3716-3731).'
 ---
+Liu, C., Chao, Q., Zhang, W., Wu, X., Li, B., Tuan, L. A., & Bing, L. (2025, January). Zero-to-Strong Generalization: Eliciting Strong Capabilities of Large Language Models Iteratively without Gold Labels. In Proceedings of the 31st International Conference on Computational Linguistics (pp. 3716-3731).
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
