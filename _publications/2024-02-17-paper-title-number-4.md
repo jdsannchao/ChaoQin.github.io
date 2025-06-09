@@ -3,7 +3,7 @@ title: "Movie Box Office Prediction With Self-Supervised and Visually Grounded P
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Predicted movie box office using self-supervised learning on posters, improving accuracy by 14.6% and enabling generalization to other multimodal regression tasks.'
+excerpt: 'Predicted movie box office using self-supervised learning on posters, improving accuracy by 14.6% and enabling generalization to other multimodal regression tasks. This work is also extended to include feature importance analysis and was accepted to the IEEE Transactions on Multimedia.'
 date: 2023-7-10
 venue: '2023 IEEE International Conference on Multimedia and Expo (ICME)'
 slideurl: 'https://github.com/jdsannchao/ChaoQin.github.io/blob/master/files/ICME_v3.pdf'
